@@ -2,13 +2,14 @@ Project Title:
 
 CubeLogic – A Full-Stack Rubik’s Cube Solver
 
-Project Description:
+## Project Description:
 
 CubeLogic is a full-stack web application that allows users to input the current state of a Rubik’s Cube and generates the step-by-step solution using core Python algorithms. The project integrates a React frontend, a Flask/Django backend, and a Supabase/PostgreSQL database for storing user accounts, cube states, solutions, and performance statistics.
 
 This project demonstrates strong skills in algorithm design, data structures, backend API development, frontend visualization, and database integration — without using AI/ML.
 
-Features:
+## Features:
+
 Frontend (User Interface)
 
 🎨 Interactive UI built with HTML/CSS/JS (or React).
@@ -19,7 +20,7 @@ Frontend (User Interface)
 
 📜 Display step-by-step moves in standard Rubik’s notation (R, R’, U, etc.).
 
-Backend (Core Logic & API)
+## Backend (Core Logic & API)
 
 🧮 Core Python algorithms (Layer-by-Layer or Kociemba’s method).
 
@@ -27,7 +28,7 @@ Backend (Core Logic & API)
 
 🔧 Move and rotation functions to manipulate cube state.
 
-📡 Flask/Django APIs to:
+## 📡 Flask/Django APIs to:
 
 Accept cube input
 
@@ -35,7 +36,7 @@ Process solving algorithm
 
 Return solution steps
 
-Database (Supabase/PostgreSQL)
+## Database (Supabase/PostgreSQL)
 
 👤 User authentication (login, signup).
 
@@ -43,7 +44,7 @@ Database (Supabase/PostgreSQL)
 
 📊 Save performance stats such as number of moves, solve time, and attempt history.
 
-Additional Features
+## Additional Features
 
 ⏱️ Timer tracking for each solution.
 

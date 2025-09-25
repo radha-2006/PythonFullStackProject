@@ -1,0 +1,12 @@
+# Backend (FastAPI, Logic, DB)
+fastapi
+uvicorn
+python-dotenv
+# Supabase Client
+supabase  
+# Core Solver Algorithm
+kociemba
+
+# Frontend (Streamlit)
+streamlit
+requests
